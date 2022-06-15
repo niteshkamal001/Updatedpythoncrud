@@ -1,0 +1,32 @@
+[
+    {
+        "emp_id": "A2002:0",
+        "emp_firstname": "Nitesh",
+        "emp_lastname": "Kamal",
+        "age": 23,
+        "city": "Bhubaneswar",
+        "CTC": 10,
+        "experience": 2,
+        "contactno": 2354654545
+    },
+    {
+        "emp_id": "A2002:1",
+        "emp_firstname": "sdfdxf",
+        "emp_lastname": "fdsfdsf",
+        "age": 22,
+        "city": "ffcxfdfdd",
+        "CTC": 24,
+        "experience": 2,
+        "contactno": 454543344
+    },
+    {
+        "emp_id": "A2002:2",
+        "emp_firstname": "bbdffdgr",
+        "emp_lastname": "ddfzrde",
+        "age": 24,
+        "city": "cbvngffvf",
+        "CTC": 32,
+        "experience": 3,
+        "contactno": 87764563
+    }
+]
